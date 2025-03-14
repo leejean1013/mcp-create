@@ -1,0 +1,17 @@
+{
+    "mcpServers": {
+      "github": {
+        "command": "npx",
+        "args": [
+          "-y",
+          "@modelcontextprotocol/server-github"
+        ],
+        "env": {
+          "GITHUB_PERSONAL_ACCESS_TOKEN": "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"
+        },
+        "disabled": false,
+        "autoApprove": []
+      }
+    }
+  }
+  
